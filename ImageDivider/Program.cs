@@ -25,7 +25,7 @@ namespace ImageDivider
             for (int i = 0; i<ImagesCount; i++)
             {
                 Image image = Image.FromFile(Directory.GetFiles(@"..\..\Images")[i]);
-                string filename = fileNames[i].Substring(0, fileNames[i].Length - 4);
+                string filename = Path.GetFileNameWithoutExtension(fileNames[i]);
                 Bitmap[,] frames = Functions.CreateArrayFromImage(image, Int16.Parse(args[0]), Int16.Parse(args[1]), filename);
                
                 ScanAlgorithms.RowAfterRow(frames);
