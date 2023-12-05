@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "XYc+USaKKJo6VskzBptNVuZ8hNvt3eFjcovFq/+pPdcDV2o8XfevVYbcjwENWFTG5+cwQJmWgpejar8APxZoeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\przzi\\OneDrive\\Pulpit\\ImageSpliter\\ImageDivider\\ImageDivider.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\przzi\\.nuget\\packages\\ffmpeg.autogen\\6.0.0.2\\ffmpeg.autogen.6.0.0.2.nupkg.sha512",
+    "C:\\Users\\przzi\\.nuget\\packages\\ffmpegcore\\5.1.0\\ffmpegcore.5.1.0.nupkg.sha512",
+    "C:\\Users\\przzi\\.nuget\\packages\\instances\\3.0.0\\instances.3.0.0.nupkg.sha512",
+    "C:\\Users\\przzi\\.nuget\\packages\\openslidenet\\1.0.0\\openslidenet.1.0.0.nupkg.sha512",
+    "C:\\Users\\przzi\\.nuget\\packages\\openslidenet.imageextensions\\1.0.0\\openslidenet.imageextensions.1.0.0.nupkg.sha512",
+    "C:\\Users\\przzi\\.nuget\\packages\\openslidenet.interop\\1.0.0\\openslidenet.interop.1.0.0.nupkg.sha512",
+    "C:\\Users\\przzi\\.nuget\\packages\\pooledgrowablebufferhelper\\1.0.5\\pooledgrowablebufferhelper.1.0.5.nupkg.sha512",
+    "C:\\Users\\przzi\\.nuget\\packages\\sharpavi\\3.0.1\\sharpavi.3.0.1.nupkg.sha512",
+    "C:\\Users\\przzi\\.nuget\\packages\\sixlabors.imagesharp\\1.0.0\\sixlabors.imagesharp.1.0.0.nupkg.sha512",
+    "C:\\Users\\przzi\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\przzi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\przzi\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\przzi\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ImageDivider": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "C:\\Users\\przzi\\OneDrive\\Pulpit\\Magisterka\\ImageDivider\\openslide-win64-20230414\\bin\\libopenslide-0.dll"
+      },
+      "nativeDebugging": true
+    }
+  }
+}
